@@ -6,6 +6,8 @@
 
 **Google Icons** : https://fonts.google.com/icons?selected=Material+Icons
 
+**Material Design Plate** : https://www.materialpalette.com/
+
 **BottomNavigationBar** : https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html
 
 # video tutorial
